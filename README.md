@@ -28,7 +28,7 @@ State 2: Now Q2 is ON and Q1 is OFF which means the opposite of state 1 will be 
 
 ![image](https://user-images.githubusercontent.com/85955049/123556851-42c1de80-d796-11eb-8d4e-39952870bb2b.png)
 
-# Pwoer Circuit (Adjustable Output Voltage Regulator) using Multisim
+# Power Circuit (Adjustable Output Voltage Regulator) using Multisim
 
 The this section the 5V battery of the circuit shown in figure above will be replaced by a power circuit. One method to construct a power circuit is to use a voltage regulator circuit. The concept of a voltage regulator, as its name implies, is to “regulate” or simply, “convert” the input voltage to a different voltage value (the desired output).  the figure below shows an adjustable output voltage regulator circuit that regulates a 9V input to a 5V output.  In order to have a different output voltage the voltage regulator block can be replaced by another value such as LM7808 to have an 8V output. (Multisim file of the circuit is uploaded)
 
